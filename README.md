@@ -1,10 +1,10 @@
 # .github
-[![web](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml)
+[![web](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml)]
 
-[![auth](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/auth.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/auth.yml)
+[![auth](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/auth.yaml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/auth.yaml)
 
-[![authorization](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/authorization.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/authorization.yml)
+[![authorization](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/authorization.yaml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/authorization.yaml)
 
-[![gateway](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yml)
+[![gateway](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yaml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yaml)
 
-[![rooms](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/rooms.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/rooms.yml)
+[![rooms](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/rooms.yaml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/rooms.yaml)
