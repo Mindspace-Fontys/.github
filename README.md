@@ -1,5 +1,5 @@
 # .github
-[![web](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml)]
+[![web](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml)
 
 [![auth](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/auth.yaml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/auth.yaml)
 
