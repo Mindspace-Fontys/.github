@@ -1,5 +1,5 @@
 # .github
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:column;">
   
 [![web](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml)
 
