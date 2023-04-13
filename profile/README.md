@@ -1,5 +1,22 @@
 # .github
-<div style="display:flex; flex-direction:column;">
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg" >
+<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        div {
+          display: flex;
+          flex-direction: column;
+        }
+				a {
+					margin: 2px;
+				}
+			 </style>
+       <div>
+          <a href="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml">
+            <img src="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml/badge.svg" alt="web" style="max-width: 100%;">
+          </a>
+       </div>
+	</foreignObject>
   
 [![web](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml/badge.svg)](https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/web.yml)
 
