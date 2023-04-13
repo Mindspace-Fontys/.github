@@ -12,8 +12,8 @@
            <a href="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/authorization.yaml">
             <img src="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/authorization.yaml/badge.svg" alt="authorization" style="max-width: 100%;">
           </a>
-           <a href="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yaml/badge.svg">
-            <img src="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yaml" alt="gateway" style="max-width: 100%;">
+           <a href="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yaml">
+            <img src="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/gateway.yaml/badge.svg" alt="gateway" style="max-width: 100%;">
           </a>
            <a href="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/rooms.yaml">
             <img src="https://github.com/Mindspace-Fontys/mindspaces/actions/workflows/rooms.yaml/badge.svg" alt="rooms" style="max-width: 100%;">
